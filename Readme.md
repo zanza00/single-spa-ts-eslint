@@ -16,4 +16,4 @@ error Command failed with exit code 1.
 info Visit https://yarnpkg.com/en/docs/cli/run for documentation about this command.
 ```
 
-To replicate install with `yarn` and then run `yanr lint`
+To replicate install with `yarn` and then run `yarn lint`
